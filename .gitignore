@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data folder — OS Open Roads GeoPackage is ~1GB, excluded from repo
+data/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# README output
+README_OLD.md
