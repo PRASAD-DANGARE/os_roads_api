@@ -195,7 +195,6 @@ GET /api/roads?bbox=-0.1276,51.5074,-0.1,51.52
         "trunk_road": false
       },
       "type": "Feature"
-    }
 }
 ```
 
