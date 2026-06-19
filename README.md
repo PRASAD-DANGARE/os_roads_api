@@ -53,7 +53,7 @@ os_roads_api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/os_roads_api.git
+git clone https://github.com/PRASAD-DANGARE/os_roads_api.git
 cd os_roads_api
 ```
 
